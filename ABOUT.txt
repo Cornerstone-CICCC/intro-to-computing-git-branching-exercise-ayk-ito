@@ -1,1 +1,2 @@
 This file contains information about the project.
+I want to make conflict.OMG.
